@@ -2,13 +2,28 @@
 
 # Introducción
 
-![image](https://user-images.githubusercontent.com/114906861/214277827-45ab331f-9643-480b-bc48-a8e109ea3863.jpg)
-
+![image](https://user-images.githubusercontent.com/114906861/214279955-1ac2c065-8d2e-4b8b-91c9-944ad300af3d.png)
 
 - [¿Qué es Rocky Linux?](linux/linux.md)
 
-
-
 - [¿En qué versión está basada?](version/version.md)
 
+# `Paquetes rpm` 
+
+# `Repositorios Rocky Linux`
+
+
+# `Operaciones Básicas`
+
+# `Referencias`
+
+# `Autores`
+
+- Jairo Verdugo Mesa
+
+- Larry Reynoso García
+
+# `Licencia`
+
+![image](https://user-images.githubusercontent.com/114906861/214280755-73c45fbd-cb4a-4492-b969-807a3cc50bd1.PNG)
 
