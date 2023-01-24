@@ -20,9 +20,9 @@
 
 # `Referencias`
 
-- [Wikipedia]
+- [Wikipedia](https://es.wikipedia.org/wiki/Rocky_Linux)
 
-- [Rocky Linux]
+- [Rocky Linux](https://rockylinux.org)
 
 
 # `Autores`
