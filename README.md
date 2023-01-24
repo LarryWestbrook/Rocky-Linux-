@@ -8,7 +8,7 @@
 
 - [¿En qué versión está basada?](version/version.md)
 
-# `Paquetes rpm` 
+# `Paquetes RPM` 
 
 # `Repositorios Rocky Linux`
 
