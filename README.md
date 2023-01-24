@@ -10,12 +10,20 @@
 
 # `Paquetes RPM` 
 
+- [¿Que son los paquetes RPM?](rpm/rpm.md)
+
+
 # `Repositorios Rocky Linux`
 
 
 # `Operaciones Básicas`
 
 # `Referencias`
+
+- [Wikipedia]
+
+- [Rocky Linux]
+
 
 # `Autores`
 
