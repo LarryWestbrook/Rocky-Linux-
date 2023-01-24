@@ -1,4 +1,4 @@
-## `Rocky Linux` larry
+## `Rocky Linux` 
 
 # Introducción
 
