@@ -28,8 +28,10 @@
 # `Autores`
 
 - Jairo Verdugo Mesa
+     [GitHub](https://github.com/Jairoverdugo98)
 
 - Larry Reynoso García
+     [GitHub](https://github.com/LarryWestbrook)
 
 # `Licencia`
 
