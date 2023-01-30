@@ -18,7 +18,7 @@
 
 ## `Operaciones Básicas`
 
-##`Referencias`
+## `Referencias`
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Rocky_Linux)
 
