@@ -1,4 +1,4 @@
-`¿Dónde se encuentra los repositorios?`
+# `¿Dónde se encuentra los repositorios?`
 
 Los Repositorios de Rocky Linux se encuentran en la ruta:
 
