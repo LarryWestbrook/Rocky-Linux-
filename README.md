@@ -15,6 +15,7 @@
 
 ## `Repositorios Rocky Linux`
 
+- [¿Dónde se encuentra los repositorios?](repositorios/repositorios.md)
 
 ## `Operaciones Básicas`
 
