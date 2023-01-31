@@ -18,6 +18,8 @@
 - [¿Dónde se encuentra los repositorios?](repositorios/repositorios.md)
 
 ## `Operaciones Básicas`
+ 
+- [Operaciones Basicas](operaciones/operaciones.md)
 
 ## `Referencias`
 
