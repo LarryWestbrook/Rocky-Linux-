@@ -4,3 +4,6 @@ Un repositorio es un servidor web que se encarga de almacenar paquetes y program
 
 ~$ cd /etc/yum.repos.d/rocky.repo
 
+![imagen](https://user-images.githubusercontent.com/45163813/215744253-3767a6c8-b865-4de2-9f48-b572ab6facc1.PNG)
+
+
