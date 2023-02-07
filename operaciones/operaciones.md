@@ -10,7 +10,7 @@ Para actualiza la lista de paquetes en Rocky Linux , utilizaremos el comando `$y
 
 # Actualización de paquetes instalados.
 
-Para actualizar todos los paquetes que hay instalado en nuestro sistema Rocky Linux , utilizaremos el comando `yum upgrade`
+Para actualizar todos los paquetes que hay instalado en nuestro sistema Rocky Linux , utilizaremos el comando `$yum upgrade`
 
 ![image](https://user-images.githubusercontent.com/45163813/217213243-823cf50d-54c7-435b-825c-081f3e32048e.PNG)
 
@@ -28,7 +28,7 @@ Para averiguar si un paquete esta instalado solo debemos poner el comando `#yum 
 
 # Instalar un paquete.
 
-El procedimeiento para instalar un paquete es el siguiente #yum install {nombre del paquete}
+El procedimeiento para instalar un paquete es el siguiente `#yum install {nombre del paquete}`
 
 
 
