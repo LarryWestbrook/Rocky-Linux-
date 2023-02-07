@@ -16,7 +16,7 @@ Para actualizar todos los paquetes que hay instalado en nuestro sistema Rocky Li
 
 # Búscar un paquete.
 
-Si tu quieres buscar un paquete específico por el cual te sabes el nombre del paquete, el comando es el siguiente $yum search {package-name}:
+Si tu quieres buscar un paquete específico por el cual te sabes el nombre del paquete, el comando es el siguiente $yum search {package-name}
 
 ![image](https://user-images.githubusercontent.com/114906861/217234226-909570a7-286f-4116-9bc4-4dc538efc69f.PNG)
 
