@@ -22,6 +22,11 @@ Si tu quieres buscar un paquete específico por el cual te sabes el nombre del p
 
 # Averiguar si un paquete está instalado.
 
+Para averiguar si un paquete esta instalado solo debemos poner el comando #yum info {nombre del paquete}
+
+![image](https://user-images.githubusercontent.com/114906861/217235890-16099635-9270-4329-b7c4-1e2f6880b164.PNG)
+
+
 # Instalar un paquete.
 
 # Borrar un paquete.
