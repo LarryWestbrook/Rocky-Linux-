@@ -1,8 +1,8 @@
 # `Rocky Linux` 
 
-## `Introducción`
-
 ![image](https://user-images.githubusercontent.com/114906861/214279955-1ac2c065-8d2e-4b8b-91c9-944ad300af3d.png)
+
+## `Introducción`
 
 - [¿Qué es Rocky Linux?](linux/linux.md)
 
