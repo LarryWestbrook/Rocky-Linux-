@@ -1,4 +1,4 @@
-# `Operaciones básicas`
+## `Operaciones básicas`
 
 Primero que nada antes de empezar a trabajar con los paquetes se debe entrar en el terminal como usuario root (sudo su).
 
@@ -38,3 +38,6 @@ Para borrar un paquete el procedimiento es el siguiente `#yum remove {nombre del
 
 ![borrar](https://user-images.githubusercontent.com/45163813/217527722-e21fb2fa-4a9a-4f51-82e8-164b29bc1e74.PNG)
 
+## `Video explicativo`
+
+- [Comandos RockyLinux]
