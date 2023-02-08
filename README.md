@@ -21,6 +21,8 @@
  
 - [Operaciones Basicas](operaciones/operaciones.md)
 
+- [Video explicativo]
+
 ## `Referencias`
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Rocky_Linux)
