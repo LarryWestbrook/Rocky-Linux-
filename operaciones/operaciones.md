@@ -28,8 +28,12 @@ Para averiguar si un paquete esta instalado solo debemos poner el comando `#yum 
 
 # Instalar un paquete.
 
-El procedimeiento para instalar un paquete es el siguiente `#yum install {nombre del paquete}`
+El procedimiento para instalar un paquete es el siguiente `#yum install {nombre del paquete}`
 
 
 
 # Borrar un paquete.
+Para borrar un paquete el comando que debemos utilizar es el siguiente `#yum remove {nombre del paquete}`
+
+![borrar](https://user-images.githubusercontent.com/45163813/217527171-5306ecab-5734-48e7-a473-d40f024241c6.PNG)
+
