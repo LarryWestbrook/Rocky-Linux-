@@ -21,7 +21,7 @@
  
 - [Operaciones Basicas](operaciones/operaciones.md)
 
-- [Video explicativo]
+- [Video explicativo](https://youtu.be/F9-UfJk_A98)
 
 ## `Referencias`
 
